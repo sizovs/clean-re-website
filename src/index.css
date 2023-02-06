@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-radial-gradient {
+  background: radial-gradient(
+    circle,
+    rgba(238, 177, 191, 0.2) 5%,
+    rgba(212, 45, 171, 0.2) 25%,
+    rgba(77, 29, 99, 0.2) 50%,
+    rgba(3, 2, 67, 0.2) 80%
+  );
+}
+
+/* .bg-radial-gradient {
+  background: radial-gradient(
+    circle,
+    rgba(1, 73, 111, 1) 0%,
+    rgba(2, 0, 36, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+} */
