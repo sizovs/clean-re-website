@@ -9,8 +9,7 @@ module.exports = {
           padding: '2rem'
       },
       fontFamily: {
-          sans: ['"Space Grotesk"', ...defaultTheme.fontFamily.sans],
-          mono: ['"Ubuntu Mono"', ...defaultTheme.fontFamily.mono]
+          sans: ['"Space Grotesk"', ...defaultTheme.fontFamily.sans]
       },
   },
 }
