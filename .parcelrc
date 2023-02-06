@@ -4,6 +4,10 @@
         "parcel-resolver-ignore",
         "..."
     ],
+    "reporters": [
+        "...",
+        "parcel-reporter-static-files-copy"
+    ],
     "transformers": {
         "*.html": [
             "...",
